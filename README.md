@@ -1,20 +1,20 @@
 
-<p align = center ><h1 align="center">Hi 👋, I'm Noe Alarcon</h1> </p>
-<h3 align="center">A passionate Programmer from Perú</h3>  
+<p align = center ><h1 align="center">Hola 👋, Soy Noe Alarcon</h1> </p>
+<h3 align="center">Un apasionado programador del Perú</h3>  
 
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/data-driven.jpg"/>
+<img align="right" width="450" alt="Shimarin" src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/data-driven.jpg"/>
 
-<h2> / about me /</h2>
+<h2> / Acerca de mi /</h2>
   
 - 📚 Soy estudiante de IV ciclo de la carrera de Computacion e Informatica 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web
 - 🌟 En mis tiempos libres practico ejercicios 💪 y juego futbol ⚽
 - 👍 Busco oportunidades para realizar practicas y aprender mucho mas
   
-<h2> / current skills / </h2>
+<h2> / Habilidades actuales / </h2>
   
 - <h4> Lenguajes </h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   
-  - <h5> currently learning </h5>
+  - <h5> Actualmente aprendiendo </h5>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
