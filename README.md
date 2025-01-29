@@ -1,4 +1,6 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<p align = center ><h1 align="center">Hi 👋, I'm Noe Alarcon</h1> </p>
+<h3 align="center">A passionate Programmer from Perú</h3>  
 
 
 <div>
@@ -7,41 +9,41 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- 📚 Soy estudiante de IV ciclo de la carrera de Computacion e Informatica 
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web
+- 🌟 En mis tiempos libres hago ejercicios 💪 y juego futbol ⚽
+- 👍 Busco oportunidades para realizar practicas y aprender mucho mas
   
 <h2> / current skills / </h2>
   
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+- <h4> Lenguajes </h4>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   
   - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+- <h4> Framework & Librerias </h4>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+- <h4> Base de datos </h4>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL badge">
   
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
 
-Last Edited on: 12/11/2022
+Last Edited on: 29/01/2024
