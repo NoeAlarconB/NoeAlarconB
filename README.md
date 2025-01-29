@@ -11,7 +11,7 @@
   
 - 📚 Soy estudiante de IV ciclo de la carrera de Computacion e Informatica 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web
-- 🌟 En mis tiempos libres hago ejercicios 💪 y juego futbol ⚽
+- 🌟 En mis tiempos libres practico ejercicios 💪 y juego futbol ⚽
 - 👍 Busco oportunidades para realizar practicas y aprender mucho mas
   
 <h2> / current skills / </h2>
