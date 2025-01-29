@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/data-driven.jpg"> </p>
 
 <div>
 
