@@ -38,12 +38,13 @@
   
 - <h4> Base de datos </h4>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL badge">
-  
   </br></br>
-  
-<div align="right">
-  </div>
 
+- <h4> Encuentrame en </h4>
+  <a href="https://www.linkedin.com/in/noe-sebastian-alarcon-bola%C3%B1os/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+<div align="right"></div>
+  
 ------
 
 Last Edited on: 29/01/2024
